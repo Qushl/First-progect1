@@ -1,5 +1,9 @@
-header{
+header {
     background-color: #000000;
     color: #ffffff;
     padding: 20px;
+}
+
+main {
+    background-color: #fff;
 }
