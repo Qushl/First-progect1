@@ -12,3 +12,7 @@ main {
 footer {
     background-color: #fff;
 }
+
+nav {
+    padding: 0;
+}
