@@ -1,6 +1,11 @@
 * {
     padding: 0;
 }
+
+.page {
+    padding: 0;
+}
+
 header {
     background-color: #000000;
     color: #ffffff;
