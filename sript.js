@@ -11,7 +11,6 @@ console.log(`Одна переменная: ${jackSparrow}, вторая пер�
 
 captain= `Капитан ${jackSparrow}`;
 
-console.log(`Одна переменная: ${jackSparrow}, вторая переменная: ${captain}`);
 
 const arr = [1, 2, 3];
 arr.four = 4;
