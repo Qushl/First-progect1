@@ -9,7 +9,7 @@ let captain = jackSparrow;
 
 console.log(`Одна переменная: ${jackSparrow}, вторая переменная: ${captain}`);
 
-captain= `Капитан ${jackSparrow}`;
+captain = `Капитан ${jackSparrow}`;
 
 
 const arr = [1, 2, 3];
