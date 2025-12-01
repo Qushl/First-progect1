@@ -14,5 +14,5 @@ captain = `Капитан ${jackSparrow}`;
 
 const arr = [1, 2, 3];
 
-console.log(arr.four); // 4
+console.log(arr.four); // 4 / г опп
 console.log(arr); 
