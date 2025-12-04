@@ -18,3 +18,5 @@ const arr2 = [12, 23, 34];
 
 console.log(arr.four); // 4 / г опп
 console.log(arr); 
+console.log(arr); 
+
