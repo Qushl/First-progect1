@@ -1,4 +1,5 @@
 let user = 0;
+const a = 123;
 const pattern = /^[A-Za-zА-Яа-яЁё\s-]+$/;
 const data = [];
 const h = 0;
