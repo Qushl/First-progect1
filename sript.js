@@ -12,6 +12,10 @@ for (let i = 0; i < 2; i++) {
   console.log('1');
 }
 
+for (let i = 0; i < 2; i++) {
+  console.log('2');
+}
+
 let jackSparrow = 'Джек Воробей';
 let captain = jackSparrow;
 
