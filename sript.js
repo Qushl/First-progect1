@@ -3,6 +3,7 @@ const a = 123;
 const pattern = /^[A-Za-zА-Яа-яЁё\s-]+$/;
 const data = [];
 const h = 0;
+const hov = 123;
 for (let i = 0; i < 2; i++) {
   console.log('1');
 }
