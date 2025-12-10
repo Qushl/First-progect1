@@ -16,7 +16,7 @@ for (let i = 0; i < 2; i++) {
   console.log('2');
 }
 
-let jackSparrow = 'Джек Воробей';
+const jackSparrow = 'Джек Воробей';
 let captain = jackSparrow;
 
 console.log(`Одна переменная: ${jackSparrow}, вторая переменная: ${captain}`);
