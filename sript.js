@@ -23,7 +23,7 @@ console.log(`Одна переменная: ${jackSparrow}, вторая пер�
 
 captain = `Капитан ${jackSparrow}`;
 
-
+let i = 12;
 const arr = [1, 2, 3];
 const arr2 = [12, 23, 34];
 const arr2 = [23, 123, 423];
