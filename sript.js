@@ -27,6 +27,10 @@ for (let i = 0; i < 2; i++) {
   console.log('5');
 }
 
+for (let i = 0; i < 2; i++) {
+  console.log('6');
+}
+
 const jackSparrow = 'Джек Воробей';
 let captain = jackSparrow;
 
