@@ -60,7 +60,11 @@ for (let i = 0; i < 2; i++) {
 }
 
 for (let i = 0; i < 2; i++) {
-  console.log('13');
+  console.log('14');
+}
+
+for (let i = 0; i < 2; i++) {
+  console.log('15');
 }
 
 const jackSparrow = 'Джек Воробей';
